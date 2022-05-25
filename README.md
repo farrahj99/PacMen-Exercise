@@ -1,6 +1,6 @@
 
 Play the game here: 
-https://farrahj99.github.io/PacMen-Exercise/
+[https://farrahj99.github.io/PacMen-Exercise/](https://farrahj99.github.io/PacMen-Exercise/)
 
 # PacMen Game
 The purpose of the Pac Men Exercise was to have a few of them bouncing around sporadically as a game. 
